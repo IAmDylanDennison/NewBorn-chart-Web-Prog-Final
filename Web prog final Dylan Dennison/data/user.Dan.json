@@ -1,0 +1,10 @@
+{
+    "username": "Dan",
+    "credentials": {
+        "salt": "f0848199ef4534e64e05e0c59b7266a3314341ba459eaec19859eb1f53c93b20",
+        "key": "5b88280b4e5c63e524396f7e4cbf129004cc15c40e4e710c345f0238d76b914b"
+    },
+    "email": "ddenni19@kent.edu",
+    "email_verified": true,
+    "token": "yzig1yrixp5q1awtht8t4a6rd3wjd1ks"
+}
